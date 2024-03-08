@@ -9,7 +9,7 @@ function App() {
     <div>
       {/*<Test/>*/}
       {/*<JsxLoop />*/}
-      <Event/>
+      {/*<Event/>*/}
     </div>
   );
 }
